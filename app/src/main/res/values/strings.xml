@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="enter">Вход</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="make_enter">Выполните вход</string>
+    <string name="or_register">или зарегистрируйтесь</string>
+    <string name="enter_your_mail">Введите вашу почту</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter1">Вход</string>
+    <string name="forgot_password">Забыли пароль?</string>
+</resources>
